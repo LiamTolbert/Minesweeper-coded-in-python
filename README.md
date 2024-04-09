@@ -1,1 +1,1 @@
-This is classic minesweeper coded in python.
+This are classic games coded in python
